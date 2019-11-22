@@ -1,0 +1,12 @@
+all.log
+BRABANTIO.txt
+CASSIO.txt
+chars.txt
+DESDEMONA.txt
+DUKE OF VENICE.txt
+EMILIA.txt
+IAGO.txt
+LODOVICO.txt
+MONTANO.txt
+OTHELLO.txt
+RODERIGO.txt

@@ -1,0 +1,15 @@
+all.log
+ANTIGONUS.txt
+AUTOLYCUS.txt
+CAMILLO.txt
+chars.txt
+Clown.txt
+FLORIZEL.txt
+HERMIONE.txt
+LEONTES.txt
+PAULINA.txt
+PERDITA.txt
+POLIXENES.txt
+Servant.txt
+Shepherd.txt
+Third Gentleman.txt

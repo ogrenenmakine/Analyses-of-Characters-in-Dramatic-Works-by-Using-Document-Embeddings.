@@ -1,0 +1,12 @@
+all.log
+ANGELO.txt
+chars.txt
+CLAUDIO.txt
+DUKE VINCENTIO.txt
+ELBOW.txt
+ESCALUS.txt
+ISABELLA.txt
+LUCIO.txt
+MARIANA.txt
+POMPEY.txt
+Provost.txt

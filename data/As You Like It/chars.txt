@@ -1,0 +1,17 @@
+ADAM.txt
+all.log
+CELIA.txt
+CHARLES.txt
+chars.txt
+CORIN.txt
+DUKE FREDERICK.txt
+DUKE SENIOR.txt
+First Lord.txt
+JAQUES.txt
+LE BEAU.txt
+OLIVER.txt
+ORLANDO.txt
+PHEBE.txt
+ROSALIND.txt
+SILVIUS.txt
+TOUCHSTONE.txt

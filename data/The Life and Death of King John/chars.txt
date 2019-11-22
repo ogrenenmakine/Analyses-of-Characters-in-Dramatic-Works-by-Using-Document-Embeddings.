@@ -1,0 +1,16 @@
+all.log
+ARTHUR.txt
+BASTARD.txt
+BLANCH.txt
+CARDINAL PANDULPH.txt
+chars.txt
+CHATILLON.txt
+CONSTANCE.txt
+First Citizen.txt
+HUBERT.txt
+KING JOHN.txt
+KING PHILIP.txt
+LEWIS.txt
+PEMBROKE.txt
+QUEEN ELINOR.txt
+SALISBURY.txt

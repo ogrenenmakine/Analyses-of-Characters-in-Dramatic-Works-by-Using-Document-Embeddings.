@@ -1,0 +1,13 @@
+all.log
+ANTONIO.txt
+chars.txt
+Clown.txt
+DUKE ORSINO.txt
+FABIAN.txt
+MALVOLIO.txt
+MARIA.txt
+OLIVIA.txt
+SEBASTIAN.txt
+SIR ANDREW.txt
+SIR TOBY BELCH.txt
+VIOLA.txt

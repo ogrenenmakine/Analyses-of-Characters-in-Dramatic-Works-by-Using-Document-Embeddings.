@@ -1,0 +1,15 @@
+all.log
+ALONSO.txt
+ANTONIO.txt
+ARIEL.txt
+Boatswain.txt
+CALIBAN.txt
+chars.txt
+FERDINAND.txt
+GONZALO.txt
+IRIS.txt
+MIRANDA.txt
+PROSPERO.txt
+SEBASTIAN.txt
+STEPHANO.txt
+TRINCULO.txt

@@ -1,0 +1,12 @@
+all.log
+chars.txt
+DUKE.txt
+JULIA.txt
+LAUNCE.txt
+LUCETTA.txt
+PANTHINO.txt
+PROTEUS.txt
+SILVIA.txt
+SPEED.txt
+THURIO.txt
+VALENTINE.txt

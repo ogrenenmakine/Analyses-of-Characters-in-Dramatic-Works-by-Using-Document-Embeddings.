@@ -1,0 +1,16 @@
+all.log
+chars.txt
+DOCTOR CAIUS.txt
+FALSTAFF.txt
+FENTON.txt
+FORD.txt
+Host.txt
+MISTRESS FORD.txt
+MISTRESS PAGE.txt
+MISTRESS QUICKLY.txt
+PAGE.txt
+PISTOL.txt
+SHALLOW.txt
+SIMPLE.txt
+SIR HUGH EVANS.txt
+SLENDER.txt

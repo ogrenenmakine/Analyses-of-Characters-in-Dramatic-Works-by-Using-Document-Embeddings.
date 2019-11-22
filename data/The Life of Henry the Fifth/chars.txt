@@ -1,0 +1,20 @@
+all.log
+Boy.txt
+BURGUNDY.txt
+CANTERBURY.txt
+chars.txt
+Chorus.txt
+Constable.txt
+DAUPHIN.txt
+EXETER.txt
+FLUELLEN.txt
+GOWER.txt
+Hostess.txt
+KATHARINE.txt
+KING HENRY V.txt
+KING OF FRANCE.txt
+MONTJOY.txt
+NYM.txt
+ORLEANS.txt
+PISTOL.txt
+WILLIAMS.txt

@@ -1,0 +1,16 @@
+all.log
+ANTIOCHUS.txt
+Bawd.txt
+BOULT.txt
+CERIMON.txt
+chars.txt
+CLEON.txt
+DIONYZA.txt
+[GOWER].txt
+GOWER.txt
+HELICANUS.txt
+LYSIMACHUS.txt
+MARINA.txt
+PERICLES.txt
+SIMONIDES.txt
+THAISA.txt

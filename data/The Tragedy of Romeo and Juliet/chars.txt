@@ -1,0 +1,13 @@
+all.log
+BENVOLIO.txt
+CAPULET.txt
+chars.txt
+FRIAR LAURENCE.txt
+JULIET.txt
+LADY CAPULET.txt
+MERCUTIO.txt
+MONTAGUE.txt
+Nurse.txt
+PARIS.txt
+PRINCE.txt
+ROMEO.txt

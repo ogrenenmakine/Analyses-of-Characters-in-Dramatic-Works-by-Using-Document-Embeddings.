@@ -1,0 +1,16 @@
+all.log
+BAPTISTA.txt
+BIANCA.txt
+BIONDELLO.txt
+chars.txt
+GREMIO.txt
+GRUMIO.txt
+HORTENSIO.txt
+KATHARINA.txt
+Lord.txt
+LUCENTIO.txt
+Pedant.txt
+PETRUCHIO.txt
+SLY.txt
+TRANIO.txt
+VINCENTIO.txt

@@ -1,0 +1,14 @@
+all.log
+BANQUO.txt
+chars.txt
+Doctor.txt
+DUNCAN.txt
+First Witch.txt
+LADY MACBETH.txt
+LADY MACDUFF.txt
+LENNOX.txt
+MACBETH.txt
+MACDUFF.txt
+MALCOLM.txt
+Porter.txt
+ROSS.txt

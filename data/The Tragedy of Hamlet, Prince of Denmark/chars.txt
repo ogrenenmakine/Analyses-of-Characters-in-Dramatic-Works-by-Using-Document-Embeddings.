@@ -1,0 +1,17 @@
+all.log
+chars.txt
+First Clown.txt
+First Player.txt
+Ghost.txt
+GUILDENSTERN.txt
+HAMLET.txt
+HORATIO.txt
+KING CLAUDIUS.txt
+LAERTES.txt
+LORD POLONIUS.txt
+MARCELLUS.txt
+OPHELIA.txt
+OSRIC.txt
+Player King.txt
+QUEEN GERTRUDE.txt
+ROSENCRANTZ.txt

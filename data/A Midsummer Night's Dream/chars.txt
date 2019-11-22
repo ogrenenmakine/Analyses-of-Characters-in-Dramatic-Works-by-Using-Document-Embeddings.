@@ -1,0 +1,14 @@
+all.log
+BOTTOM.txt
+chars.txt
+DEMETRIUS.txt
+EGEUS.txt
+HELENA.txt
+HERMIA.txt
+LYSANDER.txt
+OBERON.txt
+PUCK.txt
+Pyramus.txt
+QUINCE.txt
+THESEUS.txt
+TITANIA.txt

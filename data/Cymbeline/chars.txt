@@ -1,0 +1,18 @@
+all.log
+ARVIRAGUS.txt
+BELARIUS.txt
+CAIUS LUCIUS.txt
+chars.txt
+CLOTEN.txt
+CORNELIUS.txt
+CYMBELINE.txt
+First Gaoler.txt
+First Gentleman.txt
+GUIDERIUS.txt
+IACHIMO.txt
+IMOGEN.txt
+PHILARIO.txt
+PISANIO.txt
+POSTHUMUS LEONATUS.txt
+QUEEN.txt
+Sicilius Leonatus.txt

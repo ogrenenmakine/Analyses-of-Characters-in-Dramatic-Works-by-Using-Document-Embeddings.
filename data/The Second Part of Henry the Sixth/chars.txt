@@ -1,0 +1,18 @@
+all.log
+BUCKINGHAM.txt
+CADE.txt
+Captain.txt
+CARDINAL.txt
+chars.txt
+CLIFFORD.txt
+DUCHESS.txt
+GLOUCESTER.txt
+IDEN.txt
+KING HENRY VI.txt
+QUEEN MARGARET.txt
+SALISBURY.txt
+SAY.txt
+SUFFOLK.txt
+WARWICK.txt
+YORK.txt
+YOUNG CLIFFORD.txt

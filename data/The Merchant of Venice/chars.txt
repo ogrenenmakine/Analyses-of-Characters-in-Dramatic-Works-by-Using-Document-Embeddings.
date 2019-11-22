@@ -1,0 +1,16 @@
+all.log
+ANTONIO.txt
+ARRAGON.txt
+BASSANIO.txt
+chars.txt
+DUKE.txt
+GRATIANO.txt
+JESSICA.txt
+LAUNCELOT.txt
+LORENZO.txt
+MOROCCO.txt
+NERISSA.txt
+PORTIA.txt
+SALANIO.txt
+SALARINO.txt
+SHYLOCK.txt

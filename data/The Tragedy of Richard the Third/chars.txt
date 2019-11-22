@@ -1,0 +1,20 @@
+all.log
+BUCKINGHAM.txt
+CATESBY.txt
+chars.txt
+CLARENCE.txt
+DERBY.txt
+DUCHESS OF YORK.txt
+First Murderer.txt
+GLOUCESTER.txt
+HASTINGS.txt
+KING EDWARD IV.txt
+KING RICHARD III.txt
+LADY ANNE.txt
+PRINCE EDWARD.txt
+QUEEN ELIZABETH.txt
+QUEEN MARGARET.txt
+RICHMOND.txt
+RIVERS.txt
+Second Murderer.txt
+YORK.txt

@@ -1,0 +1,15 @@
+all.log
+ANTONIO.txt
+BEATRICE.txt
+BENEDICK.txt
+BORACHIO.txt
+chars.txt
+CLAUDIO.txt
+DOGBERRY.txt
+DON JOHN.txt
+DON PEDRO.txt
+FRIAR FRANCIS.txt
+HERO.txt
+LEONATO.txt
+MARGARET.txt
+URSULA.txt

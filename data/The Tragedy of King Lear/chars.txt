@@ -1,0 +1,15 @@
+ALBANY.txt
+all.log
+chars.txt
+CORDELIA.txt
+CORNWALL.txt
+EDGAR.txt
+EDMUND.txt
+Fool.txt
+Gentleman.txt
+GLOUCESTER.txt
+GONERIL.txt
+KENT.txt
+KING LEAR.txt
+OSWALD.txt
+REGAN.txt

@@ -1,0 +1,14 @@
+all.log
+BERTRAM.txt
+chars.txt
+Clown.txt
+COUNTESS.txt
+DIANA.txt
+First Lord.txt
+First Soldier.txt
+HELENA.txt
+KING.txt
+LAFEU.txt
+PAROLLES.txt
+Second Lord.txt
+Widow.txt

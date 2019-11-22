@@ -1,0 +1,16 @@
+ACHILLES.txt
+AENEAS.txt
+AGAMEMNON.txt
+AJAX.txt
+all.log
+chars.txt
+CRESSIDA.txt
+DIOMEDES.txt
+HECTOR.txt
+NESTOR.txt
+PANDARUS.txt
+PARIS.txt
+PATROCLUS.txt
+THERSITES.txt
+TROILUS.txt
+ULYSSES.txt
