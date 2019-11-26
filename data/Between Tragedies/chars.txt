@@ -1,0 +1,60 @@
+Macbeth_BANQUO.txt
+Macbeth_chars.txt
+Macbeth_Doctor.txt
+Macbeth_DUNCAN.txt
+Macbeth_First Witch.txt
+Macbeth_LADY MACBETH.txt
+Macbeth_LADY MACDUFF.txt
+Macbeth_LENNOX.txt
+Macbeth_MACBETH.txt
+Macbeth_MACDUFF.txt
+Macbeth_MALCOLM.txt
+Macbeth_Porter.txt
+Macbeth_ROSS.txt
+Richard_BUCKINGHAM.txt
+Richard_CATESBY.txt
+Richard_chars.txt
+Richard_CLARENCE.txt
+Richard_DERBY.txt
+Richard_DUCHESS OF YORK.txt
+Richard_First Murderer.txt
+Richard_GLOUCESTER.txt
+Richard_HASTINGS.txt
+Richard_KING EDWARD IV.txt
+Richard_KING RICHARD III.txt
+Richard_LADY ANNE.txt
+Richard_PRINCE EDWARD.txt
+Richard_QUEEN ELIZABETH.txt
+Richard_QUEEN MARGARET.txt
+Richard_RICHMOND.txt
+Richard_RIVERS.txt
+Richard_Second Murderer.txt
+Richard_YORK.txt
+Venice_ANTONIO.txt
+Venice_ARRAGON.txt
+Venice_BASSANIO.txt
+Venice_chars.txt
+Venice_DUKE.txt
+Venice_GRATIANO.txt
+Venice_JESSICA.txt
+Venice_LAUNCELOT.txt
+Venice_LORENZO.txt
+Venice_MOROCCO.txt
+Venice_NERISSA.txt
+Venice_PORTIA.txt
+Venice_SALANIO.txt
+Venice_SALARINO.txt
+Venice_SHYLOCK.txt
+Othello_BRABANTIO.txt
+Othello_CASSIO.txt
+Othello_chars.txt
+Othello_DESDEMONA.txt
+Othello_DUKE OF VENICE.txt
+Othello_EMILIA.txt
+Othello_IAGO.txt
+Othello_LODOVICO.txt
+Othello_MONTANO.txt
+Othello_OTHELLO.txt
+Othello_RODERIGO.txt
+all.log
+chars.txt
