@@ -1,5 +1,4 @@
 Macbeth_BANQUO.txt
-Macbeth_chars.txt
 Macbeth_Doctor.txt
 Macbeth_DUNCAN.txt
 Macbeth_First Witch.txt
@@ -13,7 +12,6 @@ Macbeth_Porter.txt
 Macbeth_ROSS.txt
 Richard_BUCKINGHAM.txt
 Richard_CATESBY.txt
-Richard_chars.txt
 Richard_CLARENCE.txt
 Richard_DERBY.txt
 Richard_DUCHESS OF YORK.txt
@@ -33,7 +31,6 @@ Richard_YORK.txt
 Venice_ANTONIO.txt
 Venice_ARRAGON.txt
 Venice_BASSANIO.txt
-Venice_chars.txt
 Venice_DUKE.txt
 Venice_GRATIANO.txt
 Venice_JESSICA.txt
@@ -47,7 +44,6 @@ Venice_SALARINO.txt
 Venice_SHYLOCK.txt
 Othello_BRABANTIO.txt
 Othello_CASSIO.txt
-Othello_chars.txt
 Othello_DESDEMONA.txt
 Othello_DUKE OF VENICE.txt
 Othello_EMILIA.txt
@@ -56,5 +52,3 @@ Othello_LODOVICO.txt
 Othello_MONTANO.txt
 Othello_OTHELLO.txt
 Othello_RODERIGO.txt
-all.log
-chars.txt
